@@ -20,4 +20,25 @@
     </properties>
 
 
+    <dependencies>
+<!--        问题在于gateway模块，对于客户端来说不应该引入这个，但是对于网关组件的网关功能定义又是必须，应该如何处理呢？-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-gateway</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.redisson</groupId>
+            <artifactId>redisson</artifactId>
+            <version>3.37.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.24</version>
+        </dependency>
+
+
+    </dependencies>
+
+
 </project>
