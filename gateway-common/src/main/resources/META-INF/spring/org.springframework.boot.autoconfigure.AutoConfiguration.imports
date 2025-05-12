@@ -1,0 +1,3 @@
+org.wenzhuo4657.test.gateway.gateway.autoConfigure.GatewayAutoConfigure
+org.wenzhuo4657.test.gateway.gateway.autoConfigure.RedisClientAutoConfigure
+org.wenzhuo4657.test.gateway.gateway.autoConfigure.ServicesAutoConfigure

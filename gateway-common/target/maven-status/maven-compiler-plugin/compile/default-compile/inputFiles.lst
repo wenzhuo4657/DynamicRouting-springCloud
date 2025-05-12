@@ -1,1 +1,11 @@
-C:\working\云code\code\java\idea\dynamicGateway\gateway-common\src\main\java\org\wenzhuo4657\test\gateway\bean\MyRouteDefinition.java
+C:\working\云code\code\java\idea\dynamicGateway\gateway-common\src\main\java\org\wenzhuo4657\test\gateway\gateway\autoConfigure\GatewayAutoConfigure.java
+C:\working\云code\code\java\idea\dynamicGateway\gateway-common\src\main\java\org\wenzhuo4657\test\gateway\gateway\autoConfigure\RedisClientAutoConfigure.java
+C:\working\云code\code\java\idea\dynamicGateway\gateway-common\src\main\java\org\wenzhuo4657\test\gateway\gateway\autoConfigure\ServicesAutoConfigure.java
+C:\working\云code\code\java\idea\dynamicGateway\gateway-common\src\main\java\org\wenzhuo4657\test\gateway\gateway\bean\MyRouteDefinition.java
+C:\working\云code\code\java\idea\dynamicGateway\gateway-common\src\main\java\org\wenzhuo4657\test\gateway\gateway\config\MyRouteDefinitionConfigProperties.java
+C:\working\云code\code\java\idea\dynamicGateway\gateway-common\src\main\java\org\wenzhuo4657\test\gateway\gateway\config\RedisClientConfigProperties.java
+C:\working\云code\code\java\idea\dynamicGateway\gateway-common\src\main\java\org\wenzhuo4657\test\gateway\gateway\event\ServicesLoginEvent.java
+C:\working\云code\code\java\idea\dynamicGateway\gateway-common\src\main\java\org\wenzhuo4657\test\gateway\gateway\MyReadinessStateExporter.java
+C:\working\云code\code\java\idea\dynamicGateway\gateway-common\src\main\java\org\wenzhuo4657\test\gateway\gateway\repository\RedisRouteDefinitionRepository.java
+C:\working\云code\code\java\idea\dynamicGateway\gateway-common\src\main\java\org\wenzhuo4657\test\gateway\gateway\support\impl\RouteHolder.java
+C:\working\云code\code\java\idea\dynamicGateway\gateway-common\src\main\java\org\wenzhuo4657\test\gateway\gateway\support\IRouteHolder.java

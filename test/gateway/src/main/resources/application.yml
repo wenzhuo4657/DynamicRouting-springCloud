@@ -1,6 +1,8 @@
 server:
   port: 8082
-
+spring:
+  application:
+    name:  gateway-service
 
 redis:
   sdk:
@@ -11,8 +13,7 @@ redis:
       password: ${redis_password}
       pool-size: 64
       minIdleSize: 10
+
+
 gateway:
   enable: true
-
-
-

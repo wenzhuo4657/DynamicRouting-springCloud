@@ -1,0 +1,13 @@
+org\wenzhuo4657\test\gateway\gateway\autoConfigure\GatewayAutoConfigure.class
+org\wenzhuo4657\test\gateway\gateway\autoConfigure\RedisClientAutoConfigure.class
+org\wenzhuo4657\test\gateway\gateway\bean\MyRouteDefinition$MyFilterDefinition.class
+org\wenzhuo4657\test\gateway\gateway\repository\RedisRouteDefinitionRepository.class
+org\wenzhuo4657\test\gateway\gateway\bean\MyRouteDefinition$MyPredicateDefinition.class
+org\wenzhuo4657\test\gateway\gateway\config\RedisClientConfigProperties.class
+org\wenzhuo4657\test\gateway\gateway\bean\MyRouteDefinition.class
+org\wenzhuo4657\test\gateway\gateway\autoConfigure\ServicesAutoConfigure.class
+org\wenzhuo4657\test\gateway\gateway\event\ServicesLoginEvent$ServicsLogin.class
+org\wenzhuo4657\test\gateway\gateway\support\IRouteHolder.class
+org\wenzhuo4657\test\gateway\gateway\event\ServicesLoginEvent.class
+org\wenzhuo4657\test\gateway\gateway\support\impl\RouteHolder.class
+org\wenzhuo4657\test\gateway\gateway\config\MyRouteDefinitionConfigProperties.class

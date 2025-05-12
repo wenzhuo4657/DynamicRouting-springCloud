@@ -12,6 +12,7 @@
 
     <groupId>org.wenzhuo4657.test.gateway</groupId>
     <artifactId>gateway-common</artifactId>
+    <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -21,7 +22,8 @@
 
 
     <dependencies>
-<!--        问题在于gateway模块，对于客户端来说不应该引入这个，但是对于网关组件的网关功能定义又是必须，应该如何处理呢？-->
+
+<!--        gateway使用webflux，而微服务可能使用web，这里需要注意两点    1， 根据官网文档，两者都存在时springboot加载web 2， 可通过编写springapplicaiton强行控制-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-gateway</artifactId>

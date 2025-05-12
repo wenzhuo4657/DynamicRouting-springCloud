@@ -10,6 +10,7 @@
         <module>services-1</module>
         <module>gateway-common</module>
         <module>gateway-services</module>
+        <module>test</module>
     </modules>
 
     <groupId>org.wenzhuo4657.test.gateway</groupId>
