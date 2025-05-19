@@ -22,8 +22,6 @@
 
 
     <dependencies>
-
-<!--        gateway使用webflux，而微服务可能使用web，这里需要注意两点    1， 根据官网文档，两者都存在时springboot加载web 2， 可通过编写springapplicaiton强行控制-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-gateway</artifactId>
@@ -38,8 +36,6 @@
             <artifactId>lombok</artifactId>
             <version>1.18.24</version>
         </dependency>
-
-
     </dependencies>
 
 
